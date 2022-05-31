@@ -2,7 +2,7 @@
 Useful tools for computer vision/deep learning.
 </h2>
 <h4 align="center">
-    <p><b>English</b> | <a href="https://github.com/yfq512/data_generation_tools/README.md">简体中文</a><p>
+    <p><b>English</b> | <a href="https://github.com/yfq512/data_generation_tools/blob/main/README.md">简体中文</a><p>
 </h4>
 
 ### Data Augmentation
