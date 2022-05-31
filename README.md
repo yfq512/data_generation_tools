@@ -15,8 +15,8 @@ Useful tools for computer vision/deep learning.
 
 ### 使用步骤
 * 基于原始图像(data/imgs)和分类标签(data/labels.txt)用在线标注工具 https://www.makesense.ai/ 制作vgg格式的标注文件 (data/vgg.json 此处文件已存在，用户也可重新制作)
-  ![image](https://github.com/yfq512/data_generation_tools/imgs/1.jpg)
-  ![image](https://github.com/yfq512/data_generation_tools/imgs/2.jpg)
+  ![image](https://github.com/yfq512/data_generation_tools/blob/main/imgs/1.jpg)
+  ![image](https://github.com/yfq512/data_generation_tools/blob/main/imgs/2.jpg)
 * 生成数据 python generator.py 生成的图像数据存放在(fake/images)，对应标签存放在(fake/labels)
 * 验证生成数据 python plot.py 将标注文件的box画到对应的生成图像，画好图像保存在(fake/images)
 
