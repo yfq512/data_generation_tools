@@ -6,7 +6,7 @@ Useful tools for computer vision/deep learning.
 </h4>
 
 ### Data Augmentation
-* Convenient random data enhancement for image random affine, rotation, translation, stretching, color noise, brightness, etc.
+* Convert images to random affine, rotation, translation, stretching, color noise, brightness, etc.
 * The default is only for target detection data enhancement, generating images and corresponding yolo format annotation files (image classification needs to modify the code part)
 * You can specify the number N of generated data, but the actual number of generated data is about 0.8*N
 
