@@ -14,7 +14,7 @@ Useful tools for computer vision/deep learning.
 * pip install opencv-python -i https://mirror.baidu.com/pypi/simple
 
 ### 使用步骤
-* 基于原始图像(data/imgs)和分类标签(data/labels.txt)用在线标注工具 https://www.makesense.ai/ 制作vgg格式的标注文件 (data/vgg.json 此处文件已存在，用户也可重新制作)
+* 基于原始图像(data/imgs)和分类标签(data/labels.txt)用在线标注工具 https://www.makesense.ai/ 制作vgg格式的标注文件，也可以导入coco标注文件再导出vgg格式的标注文件 (data/vgg.json 此处文件已存在，用户也可重新制作)
   ![image](https://github.com/yfq512/data_generation_tools/blob/main/imgs/1.jpg)
   ![image](https://github.com/yfq512/data_generation_tools/blob/main/imgs/2.jpg)
 * 生成数据 python generator.py 生成的图像数据存放在(fake/images)，对应标签存放在(fake/labels)
