@@ -1,5 +1,5 @@
 <h2 align="center">
-Useful tools for computer vision/deep learning.
+有用的深度学习工具
 </h2>
 <h4 align="center">
     <p><b>简体中文</b> | <a href="https://github.com/yfq512/data_generation_tools/blob/main/README_EN.md">English</a><p>
